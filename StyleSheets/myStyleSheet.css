@@ -1,0 +1,14 @@
+.menu-button > .arrow-button {
+    -fx-padding: 0;
+}
+
+.menu-button > .arrow-button > .arrow {
+    -fx-padding: 0;
+}
+
+.custom-dropdown-button {
+  -fx-background-color: lightblue;
+  -fx-padding: 8px;
+  -fx-font-size: 16px;
+  -fx-arrow-visible: false;
+}
